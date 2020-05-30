@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="shebahSuite">
+  <test thread-count="5" name="sheebahTest">
+    <classes>
+      <class name="may7.artimay78.may7testcas"/>
+    </classes>
+  </test> <!-- sheebahTest -->
+</suite> <!-- shebahSuite -->
